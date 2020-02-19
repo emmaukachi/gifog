@@ -1,3 +1,6 @@
+@extends('layout.app')
+
+@section('main-content')
 <section class="page-header padding">
     <div class="container">
     <div class="page-content text-center">
@@ -98,3 +101,4 @@
         </div>
         </div>
     </section>
+    @endsection

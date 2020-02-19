@@ -11,6 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('pages.home');
-});
+Route::get('/', 'pagesController@index');
+Route::prefix('pages')->group(function () {
+		
+        Route::get('about-us', 'pagesController@about');
+        
+    });

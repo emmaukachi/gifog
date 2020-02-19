@@ -11,22 +11,22 @@
     <div class="header-menu-wrap">
     <ul class="dl-menu">
     <li><a href="/">Home</a>
-    <ul>
+    {{--<ul>
     <li><a href="index.html">Home Default</a></li>
     <li><a href="index-2.html">Home Modern</a></li>
-    </ul>
+    </ul>--}}
     </li>
-    <li><a href="#">About</a>
-    <ul>
-    <li><a href="about-us.html">About Us</a></li>
+    <li><a href="{{URL('pages/about-us')}}">About</a>
+    {{--<ul>
+    <li><a href="{{URL('pages/about-us')}}">About Us</a></li>
     <li><a href="about-company.html">About Company</a></li>
-    </ul>
+    </ul>--}}
     </li>
-    <li><a href="#">Services</a>
-    <ul>
+    <li><a href="{{URL('pages/services')}}">Services</a>
+   {{-- <ul>
     <li><a href="services-1.html">Services 01</a></li>
     <li><a href="services-2.html">Services 02</a></li>
-    </ul>
+    </ul>--}}
     </li>
     <li><a href="#">Pages</a>
     <ul>
