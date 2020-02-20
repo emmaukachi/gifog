@@ -14,7 +14,7 @@
     <div class="row">
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="img/project-1.jpg" alt="projects">
+    <img src="/img/project-1.jpg" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon ajax-popup-link"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -25,7 +25,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="img/project-2.jpg" alt="projects">
+    <img src="/img/project-2.jpg" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -36,7 +36,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="img/project-3.jpg" alt="projects">
+    <img src="/img/project-3.jpg" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -47,7 +47,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="img/project-4.jpg" alt="projects">
+    <img src="/img/project-4.jpg" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -58,7 +58,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="img/project-5.jpg" alt="projects">
+    <img src="/img/project-5.jpg" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -69,7 +69,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="img/project-6.jpg" alt="projects">
+    <img src="/img/project-6.jpg" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">

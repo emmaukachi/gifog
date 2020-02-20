@@ -29,9 +29,12 @@ class pagesController extends Controller
     }
     public function projectSingle()
     {
-        return view('pages.projects-single');
+        return view('pages.project-single');
     }
-
+    public function team()
+    {
+        return view('pages.team');
+    }
     /**
      * Show the form for creating a new resource.
      *

@@ -15,23 +15,23 @@
     <div class="col-md-6 sm-padding">
     <div id="project-single-carousel" class="project-single-carousel box-shadow owl-carousel">
     <div class="single-carousel">
-    <img src="img/project-s-1.jpg" alt="img">
+    <img src="/img/project-s-1.jpg" alt="img">
     </div>
     <div class="single-carousel">
-    <img src="img/project-s-2.jpg" alt="img">
+    <img src="/img/project-s-2.jpg" alt="img">
     </div>
     <div class="single-carousel">
-    <img src="img/project-s-3.jpg" alt="img">
+    <img src="/img/project-s-3.jpg" alt="img">
     </div>
     </div>
     </div>
     <div class="col-md-6 sm-padding">
     <div class="project-single-content">
     <h2>The dancing house prague</h2>
-    <p>Indico is a different kind of architecture practice. Founded by LoganCee in 1991, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
+    <p>Gofog Integrated Design is a different kind of architecture practice. Founded by Engr. Ogar Gift Samuel in 2010, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
     <ul class="project-details">
     <li><span>Architects</span>: Rosemary Adeniran, Nehimadu Sambo, Olaniyi Abass</li>
-    <li><span>Location</span>: 962 Fifth Avenue, 3rd Floor Lagos.</li>
+    <li><span>Location</span>: 962 Fifth Avenue, 3rd Floor, Festac town, Lagos.</li>
     <li><span>Category</span>: Architecture, Interior.</li>
     {{--<li><span>Area</span>: 119.0.563</li>--}}
     <li><span>Project Year</span>: 2019/2020</li>
@@ -73,4 +73,5 @@
     </div>
     </div>
     </div>--}}
+    <a data-scroll href="project-single" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
 @endsection

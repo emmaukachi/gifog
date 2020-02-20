@@ -1,9 +1,9 @@
 <footer class="footer-section align-center">
     <div class="container">
-    <p><a href="templateshub.net">Templates Hub</a></p>
+    {{--<p><a href="templateshub.net">Templates Hub</a></p>--}}
     </div>
     </footer>
-    <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
+    <a data-scroll href="/" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
     
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/js/vendor/jquery-1.12.4.min.js"></script>
     
