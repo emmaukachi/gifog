@@ -16,5 +16,6 @@ Route::prefix('pages')->group(function () {
 		
         Route::get('about-us', 'pagesController@about');
         Route::get('services', 'pagesController@services');
-
+        Route::get('projects', 'pagesController@projects');
+        Route::get('project-single', 'pagesController@projectSingle');
     });

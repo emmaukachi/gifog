@@ -30,11 +30,11 @@
     </li>
     <li><a href="#">Pages</a>
     <ul>
-    <li><a href="projects.html">Our Projects</a></li>
-     <li><a href="project-single.html">Project Single</a></li>
+    <li><a href="{{URL('pages/projects')}}">Our Projects</a></li>
+     <li><a href="{{URL('pages/project-single')}}">Project Single</a></li>
     <li><a href="team.html">Our Team</a></li>
-    <li><a href="testimonial.html">Testimonial</a></li>
-    <li><a href="404.html">404 Error</a></li>
+    {{--<li><a href="testimonial.html">Testimonial</a></li>
+    <li><a href="404.html">404 Error</a></li>--}}
     </ul>
     </li>
     <li><a href="#">Blog</a>

@@ -23,6 +23,14 @@ class pagesController extends Controller
     {
         return view('pages.services');
     }
+    public function projects()
+    {
+        return view('pages.projects');
+    }
+    public function projectSingle()
+    {
+        return view('pages.projects-single');
+    }
 
     /**
      * Show the form for creating a new resource.
