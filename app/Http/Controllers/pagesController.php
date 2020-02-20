@@ -35,6 +35,10 @@ class pagesController extends Controller
     {
         return view('pages.team');
     }
+    public function contact()
+    {
+        return view('pages.contact');
+    }
     /**
      * Show the form for creating a new resource.
      *

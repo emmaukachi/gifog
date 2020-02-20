@@ -74,4 +74,5 @@
     </div>
     </div>
     </section>
+    <a data-scroll href="services" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
 @endsection

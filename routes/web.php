@@ -19,4 +19,5 @@ Route::prefix('pages')->group(function () {
         Route::get('projects', 'pagesController@projects');
         Route::get('project-single', 'pagesController@projectSingle');
         Route::get('team', 'pagesController@team');
+        Route::get('contact', 'pagesController@contact');
     });

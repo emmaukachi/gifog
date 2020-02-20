@@ -44,11 +44,11 @@
     <li><a href="blog-single.html">Blog Single</a></li>
     </ul>
     </li>--}}
-    <li><a href="contact.html">Contact</a></li>
+    <li><a href="{{URL('pages/contact')}}">Contact</a></li>
     </ul>
     </div>
     <div class="header-right">
-    <a class="menu-btn" href="#">Request a Quote</a>
+   {{--<a class="menu-btn" href="#">Request a Quote</a>--}}
     
     <div class="mobile-menu-icon">
     <div class="burger-menu">

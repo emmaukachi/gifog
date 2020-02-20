@@ -80,4 +80,5 @@
     </div>
     </div>
     </section>
+    <a data-scroll href="team" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
 @endsection

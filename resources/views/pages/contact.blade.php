@@ -1,6 +1,7 @@
 @extends('layout.app')
 
 @section('main-content')
+<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Dynamic%20Layers&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com/"></a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:100%;}</style></div>
 <section class="contact-section bg-grey padding">
     <div class="dots"></div>
     <div class="container">
@@ -9,7 +10,7 @@
     <div class="contact-info">
     <h2>Get in touch with us & <br>send us message today!</h2>
     <p>Redison is a different kind of architecture practice. Founded by LoganCee in 1991, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
-    <h3>198 West 21th Street, Suite 721 <br>New York, NY 10010</h3>
+    <h3>198 West 21th Street, Suite 721 <br>Lagos, NY 10010</h3>
     <h4><span>Email:</span> Dynamiclayers.Net <br> <span>Phone:</span> +88 (0) 101 0000 000 <br> <span>Fax:</span> +88 (0) 202 0000 001</h4>
     </div>
     </div>
@@ -41,4 +42,5 @@
     </div>
     </div>
     </section>
+    <a data-scroll href="contact" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
   @endsection      

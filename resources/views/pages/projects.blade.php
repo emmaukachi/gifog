@@ -166,4 +166,5 @@
     <p><a href="templateshub.net">Templates Hub</a></p>
     </div>
     </footer>--}}
+    <a data-scroll href="projects" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
 @endsection
