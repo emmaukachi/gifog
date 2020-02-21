@@ -16,7 +16,7 @@
     <div class="col-lg-3 col-sm-6 padding-15">
     <div class="team-item">
     <div class="overlay"></div>
-    <img src="/img/Rosemary.jpg" alt="team">
+    <img src="/img/Worker-1.jpg" alt="team">
     <div class="team-content">
     <h3>Adeniran Oluwakemi</h3>
     <span>Architect</span>
