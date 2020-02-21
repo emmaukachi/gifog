@@ -35,7 +35,7 @@
         <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-bottom" data-delay="3s">We have provided complete remodeling and construction solutions for <br>residential and commercial properties in cities.</div></div></div>
         <div class="dl-btn-group">
         <div class="inner-layer">
-        <a href="#" class="dl-btn" data-animation="fade-in-bottom" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+        {{--<a href="#" class="dl-btn" data-animation="fade-in-bottom" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>--}}
         </div>
         </div>
         </div>
@@ -55,7 +55,7 @@
         <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="3s">We have provided complete remodeling and construction solutions for <br>residential and commercial properties in cities.</div></div></div>
         <div class="dl-btn-group">
         <div class="inner-layer">
-        <a href="#" class="dl-btn" data-animation="fade-in-right" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+        {{--<a href="#" class="dl-btn" data-animation="fade-in-right" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>--}}
         </div>
         </div>
         </div>
@@ -68,9 +68,9 @@
         <div class="row about-wrap">
         <div class="col-lg-6 sm-padding">
         <div class="about-content wow fadeInLeft">
-        <h2>We are the expart on this field better solution since 1984.</h2>
+        <h2>We are the expert on this field better solution since 2010.</h2>
         <p>We are committed to building a sustainable future by fostering a collaborative spirit that creates exceptional experiences, balanced relationships, and community built environment. Building isn’t just job. It's our passion. With every project we undertake, we set the bar high and provide the best industry.</p>
-        <a href="#" class="default-btn">More About Us</a>
+        {{--<a href="#" class="default-btn">More About Us</a>--}}
         </div>
         </div>
         <div class="col-lg-6 sm-padding">
