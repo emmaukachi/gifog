@@ -15,7 +15,7 @@
         <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-left" data-delay="3s">We have provided complete remodeling and construction solutions for <br>residential and commercial properties in cities.</div></div></div>
         <div class="dl-btn-group">
         <div class="inner-layer">
-        <a href="#" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
+        <a href="projects" class="dl-btn" data-animation="fade-in-left" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
         </div>
         </div>
         </div>
@@ -35,7 +35,7 @@
         <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-bottom" data-delay="3s">We have provided complete remodeling and construction solutions for <br>residential and commercial properties in cities.</div></div></div>
         <div class="dl-btn-group">
         <div class="inner-layer">
-        {{--<a href="#" class="dl-btn" data-animation="fade-in-bottom" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>--}}
+        <a href="projects" class="dl-btn" data-animation="fade-in-bottom" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
         </div>
         </div>
         </div>
@@ -55,7 +55,7 @@
         <div class="dl-caption small"><div class="inner-layer"><div data-animation="fade-in-right" data-delay="3s">We have provided complete remodeling and construction solutions for <br>residential and commercial properties in cities.</div></div></div>
         <div class="dl-btn-group">
         <div class="inner-layer">
-        {{--<a href="#" class="dl-btn" data-animation="fade-in-right" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>--}}
+        <a href="{{URL('pages/projects')}}" class="dl-btn" data-animation="fade-in-right" data-delay="3.5s">View Projects <i class="arrow_right"></i></a>
         </div>
         </div>
         </div>
