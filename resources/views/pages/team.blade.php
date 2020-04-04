@@ -16,7 +16,7 @@
     <div class="col-lg-3 col-sm-6 padding-15">
     <div class="team-item">
     <div class="overlay"></div>
-    <img src="/img/Rose.JPG" alt="team">
+    <img src="/img/Rose2.jpg" alt="team">
     <div class="team-content">
     <h3>Adeniran Rosemary</h3>
     <span>Architect</span>
