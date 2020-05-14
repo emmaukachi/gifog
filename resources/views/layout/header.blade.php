@@ -11,7 +11,7 @@
 <meta name="description" content="Construction & Building HTML Template">
 <meta name="author" content="AlexaTheme">
 <title>Gifog Integrated designs | Construction & Building</title>
-<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="/img/gifog-logo2.png">
 
 <link rel="stylesheet" href="/css/fontawesome.min.css">
 

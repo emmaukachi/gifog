@@ -3,7 +3,7 @@
     <div class="row">
     <div class="col-lg-3 col-sm-6 sm-padding">
     <div class="widget-content">
-    <a href="/"><img src="img/logo-light.png" alt="brand"></a>
+    <a href="/"><img src="img/gifog-logo2.png" alt="brand"></a>
     <p>Building your own home is about desire, fantasy. But it’s achievable anyone can do it.</p>
     </div>
     </div>
@@ -11,10 +11,10 @@
     <div class="widget-content">
     <h4>Company</h4>
     <ul class="widget-links">
-    <li><a href="about-us">About Us</a></li>
-    <li><a href="services">Our Services</a></li>
-    <li><a href="projects">Our Projects</a></li>
-    <li><a href="contact">Contact Us</a></li>
+    <li><a href="{{URL('pages/about-us')}}">About Us</a></li>
+    <li><a href="{{URL('pages/services')}}">Our Services</a></li>
+    <li><a href="{{URL('pages/projects')}}">Our Projects</a></li>
+    <li><a href="{{URL('pages/contact')}}">Contact Us</a></li>
     </ul>
     </div>
     </div>
@@ -38,18 +38,18 @@
     <div id="subscribe-result">
     <p class="subscription-success"></p>
     <p class="subscription-error"></p>
-    </div>--}}
+    </div>
     </form>
     </div>
     </div>
     </div>
-    </div>
+    </div>--}}
     </div>
     </div>
     </section>
 <footer class="footer-section align-center">
     <div class="container">
-    {{--<p><a href="templateshub.net">Templates Hub</a></p>--}}
+    <p><a href="templateshub.net">Chumzy Technology</a></p>
     </div>
     </footer>
     <a data-scroll href="/" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
@@ -79,5 +79,5 @@
     <script src="/js/vendor/wow.min.js"></script>
     
     <script src="/js/main.js"></script>
-    </body>
+    
     
