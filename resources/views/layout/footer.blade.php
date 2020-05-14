@@ -46,10 +46,12 @@
     </div>--}}
     </div>
     </div>
-    </section>
+</section>
 <footer class="footer-section align-center">
+    
     <div class="container">
-    <p><a href="templateshub.net">Chumzy Technology</a></p>
+    {{--<p><a href="templateshub.net">Chumzy Technology</a></p>--}}
+    <p><a href="/">Chumzy Technology</a></p>
     </div>
     </footer>
     <a data-scroll href="/" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>

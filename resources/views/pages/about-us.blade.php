@@ -101,6 +101,5 @@
         </div>
         </div>
     </section>
-    
     <a data-scroll href="about-us" id="scroll-to-top"><i class="arrow_carrot-up"></i></a>
     @endsection
