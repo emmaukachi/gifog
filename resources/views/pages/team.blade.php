@@ -32,7 +32,7 @@
     <div class="col-lg-3 col-sm-6 padding-15">
     <div class="team-item">
     <div class="overlay"></div>
-    <img src="/img/Worker-2.jpg" alt="team">
+    {{--<img src="/img/Worker-2.jpg" alt="team">--}}
     <div class="team-content">
     <h3>José Carpio</h3>
     <span>Designer</span>
@@ -48,7 +48,7 @@
     <div class="col-lg-3 col-sm-6 padding-15">
     <div class="team-item">
     <div class="overlay"></div>
-    <img src="/img/Worker-3.jpg" alt="team">
+    {{--<img src="/img/Worker-3.jpg" alt="team">--}}
     <div class="team-content">
     <h3>Valentin Lacoste</h3>
     <span>Developer</span>
@@ -64,7 +64,7 @@
     <div class="col-lg-3 col-sm-6 padding-15">
     <div class="team-item">
     <div class="overlay"></div>
-    <img src="/img/Worker-4.jpg" alt="team">
+    {{--<img src="/img/Worker-4.jpg" alt="team">--}}
     <div class="team-content">
     <h3>Kyle Frederick</h3>
     <span>Marketer</span>

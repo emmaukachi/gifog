@@ -28,7 +28,7 @@
     <div class="col-md-6 sm-padding">
     <div class="project-single-content">
     <h2>The dancing house prague</h2>
-    <p>Gofog Integrated Design is a different kind of architecture practice. Founded by Engr. Ogar Gift Samuel in 2010, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
+    <p>Gifog Integrated Design is a different kind of architecture practice. Founded by Engr. Ogar Gift Samuel in 2010, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
     <ul class="project-details">
     <li><span>Architects</span>: Rosemary Adeniran, Nehimadu Sambo, Olaniyi Abass</li>
     <li><span>Location</span>: 962 Fifth Avenue, 3rd Floor, Festac town, Lagos.</li>
