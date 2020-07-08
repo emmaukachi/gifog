@@ -21,8 +21,9 @@
     <div class="col-lg-3 col-sm-6 sm-padding">
     <div class="widget-content">
     <h4>Headquaters</h4>
-    <p>962 Fifth Avenue, 3rd Floor Lagos, LG100001</p>
-     <span><a href="http://html.dynamiclayers.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6129040d0d0e21200d0419003509040c044f0f0415">[email&#160;protected]</a></span>
+    <p>321 G close, Festac town, Lagos, LG 100001</p>
+     {{--<span><a href="http://html.dynamiclayers.net/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6129040d0d0e21200d0419003509040c044f0f0415">[email&#160;protected]</a></span>--}}
+     <h4><span>Email:</span></h4><p>Gifogsdesigns@gmail.com</p>
     <span>(+234) 706 469 1744</span>
     </div>
     </div>
