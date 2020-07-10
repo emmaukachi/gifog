@@ -1,7 +1,9 @@
 @extends('layout.app')
 
 @section('main-content')
-<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Dynamic%20Layers&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com/"></a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:100%;}</style></div>
+{{--<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Dynamic%20Layers&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.emojilib.com/"></a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:100%;}</style></div>--}}
+  
+    <iframe _ngcontent-c0="" allowfullscreen="" frameborder="0" height="350" style="border:0" width="100%" src="https://maps.google.com/maps?q=321, G Close, Festac Town, Amuwo Odofin, Lagos, Nigeria&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe>
 <section class="contact-section bg-grey padding">
     <div class="dots"></div>
     <div class="container">
@@ -17,7 +19,8 @@
     </div>
     <div class="col-md-6 padding-15">
     <div class="contact-form">
-    <form action="http://html.dynamiclayers.net/at/indico/contact.php" method="post" id="ajax_form" class="form-horizontal">
+    {{--<form action="http://html.dynamiclayers.net/at/indico/contact.php" method="post" id="ajax_form" class="form-horizontal">--}}
+      <form action="https://mail.google.com/mail/u/0/#inbox" method="post" id="ajax_form" class="form-horizontal">
     <div class="form-group colum-row row">
     <div class="col-sm-6">
     <input type="text" id="name" name="name" class="form-control" placeholder="Name" required>
