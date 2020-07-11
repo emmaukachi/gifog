@@ -5,7 +5,7 @@
     <div class="container">
     <div class="page-content text-center">
     <h2>Project single</h2>
-    <p>Construction & Building.</p>
+    <p>Design and Build.</p>
     </div>
     </div>
     </section>
@@ -28,14 +28,14 @@
     <div class="col-md-6 sm-padding">
     <div class="project-single-content">
     <h2>The dancing house Ago-palace</h2>
-    <p>Gifog Integrated Design is a different kind of architecture practice. Founded by Engr. Ogar Gift Samuel in 2010, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
+    <p>Gifogs Integrated Design is a different kind of architecture practice. Founded by Engr. Ogar Gift Samuel in 2010, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
     <ul class="project-details">
     <li><span>Architects</span>: Adeniran Rosemary </li>
     <li><span>Location</span>: 321 G close, Festac town, Lagos, LG 100001.</li>
-    <li><span>Category</span>: Architecture, Interior.</li>
+    <li><span>Category</span>: Architecture, Interior and Build.</li>
     {{--<li><span>Area</span>: 119.0.563</li>--}}
     <li><span>Project Year</span>: 2020/2021</li>
-    <li><span>Manufactures</span>: Gifog Integrated Designs.</li>
+    <li><span>Manufactures</span>: Gifogs Integrated Designs.</li>
     </ul>
     </div>
     </div>
