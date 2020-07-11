@@ -12,7 +12,7 @@
     <div class="contact-info">
     <h2>Get in touch with us & <br>send us message today!</h2>
     <p>Gifog Integrated Design is a different kind of architecture practice. Founded by Engr. Ogar Gift Samuel in 2010, we’re an employee-owned firm pursuing a democratic design process that values everyone’s input.</p>
-    <p>At gifogs integrated designs Ltd we turn your ideas and dreams into reality<p>
+    <p>At Gifogs Integrated Designs Ltd we turn your ideas and dreams into reality<p>
     <h3>321 G close, Festac town<br>Lagos, LG 100001</h3>
     <h4><span>Email:</span> Gifogsdesigns@gmail.com <br> <span>Phone:</span> +234 (0)706 469 1744 <br> {{--<span>Fax:</span> +88 (0) 202 0000 001--}}</h4>
     </div>
