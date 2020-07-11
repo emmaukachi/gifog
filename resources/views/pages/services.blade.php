@@ -5,7 +5,7 @@
     <div class="container">
     <div class="page-content text-center">
     <h2>Our services</h2>
-    <p>Construction & Building.</p>
+    <p>Design and Build.</p>
     </div>
     </div>
     </section>
@@ -20,7 +20,7 @@
     </div>
     <h3>General Building</h3>
     <p>We are committed a sustainable future fostering a collaborative spirit.</p>
-    <a href="#" class="read-more">Read More</a>
+    {{--<a href="#" class="read-more">Read More</a>--}}
     <div class="overlay-icon">
     <i class="flaticon-3d-printer"></i>
     </div>
@@ -31,7 +31,7 @@
     </div>
     <h3>Building Construction</h3>
     <p>We are committed a sustainable future fostering a collaborative spirit.</p>
-    <a href="#" class="read-more">Read More</a>
+    {{--<a href="#" class="read-more">Read More</a>--}}
     <div class="overlay-icon">
     <i class="flaticon-industrial-robot"></i>
     </div>
@@ -42,7 +42,7 @@
     </div>
     <h3>Refurbishments</h3>
     <p>We are committed a sustainable future fostering a collaborative spirit.</p>
-    <a href="#" class="read-more">Read More</a>
+    {{--<a href="#" class="read-more">Read More</a>--}}
     <div class="overlay-icon">
     <i class="flaticon-assembly-line"></i>
     </div>
@@ -53,7 +53,7 @@
     </div>
     <h3>Building Renovation</h3>
     <p>We are committed a sustainable future fostering a collaborative spirit.</p>
-    <a href="#" class="read-more">Read More</a>
+    {{--<a href="#" class="read-more">Read More</a>--}}
     <div class="overlay-icon">
     <i class="flaticon-conveyor"></i>
     </div>
@@ -64,7 +64,7 @@
     </div>
     <h3>Architectural Plans</h3>
     <p>We are committed a sustainable future fostering a collaborative spirit.</p>
-    <a href="#" class="read-more">Read More</a>
+    {{--<a href="#" class="read-more">Read More</a>--}}
     <div class="overlay-icon">
     <i class="flaticon-control-system"></i>
     </div>
