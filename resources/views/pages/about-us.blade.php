@@ -5,7 +5,7 @@
     <div class="container">
     <div class="page-content text-center">
     <h2>About us</h2>
-    <p>Construction & Building.</p>
+    <p>Design and Build.</p>
     </div>
     </div>
     </section>
@@ -16,7 +16,7 @@
         <div class="about-content wow fadeInLeft">
         <h2>We are expert on this field and we offer better solution since 2010.</h2>
         <p>We are committed to building a sustainable future by fostering a collaborative spirit that creates exceptional experiences, balanced relationships, and community built environment. Building isn’t just job. It's our passion. With every project we undertake, we set the bar high and provide the best industry.</p>
-        <p>At gifogs integrated designs Ltd we turn your ideas and dreams into reality</p>
+        <p>At <b>Gifogs Integrated Designs Ltd</b> we turn your ideas and dreams into reality</p>
         {{--<a href="#" class="default-btn">More About Us</a>--}}
         </div>
         </div>
@@ -25,7 +25,7 @@
         <li class="about-promo-item wow fadeInUp">
         <i class="flaticon-factory"></i>
         <div>
-        <h3>Professional Liability</h3>
+        <h3>Design and Build</h3>
         <p>We work on all sizes of Projects from brand new homes to large scale commercial projects.</p>
         </div>
         </li>
@@ -80,7 +80,7 @@
         <div class="work-pro-item text-center">
         <span class="number">4</span>
         <h3>Final Outputs</h3>
-        <p>We are committed building a sustainable future fostering a collaborative spirit.</p>
+        <p>We help you achieve your dreams with time.</p>
         </div>
         </div>
         </div>
