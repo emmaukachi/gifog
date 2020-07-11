@@ -5,7 +5,7 @@
     <div class="container">
     <div class="page-content text-center">
     <h2>Specialized projects</h2>
-    <p>Construction & Building.</p>
+    <p>Design and Build.</p>
     </div>
     </div>
     </section>
