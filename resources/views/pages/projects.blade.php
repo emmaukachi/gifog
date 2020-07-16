@@ -58,7 +58,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="/img/Gifty2.jpg" alt="projects">
+    <img src="/img/Gifty2.png" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -69,7 +69,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="/img/Gifty6.jpg" alt="projects">
+    <img src="/img/Gifty6.png" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
