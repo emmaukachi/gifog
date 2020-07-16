@@ -6,7 +6,7 @@
     <div class="container">
     <div class="primary-header-inner">
     <div class="header-logo">
-    <a href="/"><img src="/img/gifog-logo1.jpg" alt="gifog"></a>
+    <a href="/"><img src="/img/giftlogo.png" alt="gifog"></a>
     </div>
     <div class="header-menu-wrap">
     <ul class="dl-menu">
