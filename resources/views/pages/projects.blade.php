@@ -18,14 +18,14 @@
     <div class="overlay"></div>
     <a href="#" class="view-icon ajax-popup-link"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
-    <a href="#" class="category">Interior</a>
+    <a href="#" class="category">Design</a>
     {{--<h3><a href="#" class="tittle">Rectangular house near italy</a></h3>--}}
     </div>
     </div>
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="/img/3DView5.jpg" alt="projects">
+    <img src="/img/Gifty4.png" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
@@ -36,7 +36,7 @@
     </div>
     <div class="col-lg-4 col-sm-6 padding-15">
     <div class="project-item">
-    <img src="/img/g-8.jpg" alt="projects">
+    <img src="/img/Gifty.png" alt="projects">
     <div class="overlay"></div>
     <a href="#" class="view-icon"> <i class="fas fa-expand"></i></a>
     <div class="projects-content">
